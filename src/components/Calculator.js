@@ -46,7 +46,7 @@ function Calculator() {
                     <Col>
                         <h3>Smart Spend:</h3>
                         <p><strong>Expense like EMI, RENT, BILLS, FOOD etc..,  :</strong> {allocation.expense}</p>
-                        <p><strong>Investing & Savings like buying stocks, gold, buying courses etc..,  :</strong> {allocation.investingSaving}</p>
+                        <p><strong>Investing & Savings like buying stocks, gold, buying courses to upskill yourself etc..,  :</strong> {allocation.investingSaving}</p>
                         <p><strong>Short Term Desires, trips, bucket list items, parties etc..,  :</strong> {allocation.shortTermDesires}</p>
                     </Col>
                 </Row>
